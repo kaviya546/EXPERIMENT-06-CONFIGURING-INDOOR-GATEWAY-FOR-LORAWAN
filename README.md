@@ -1,17 +1,4 @@
-14. In a LoRaWAN network, how does the indoor gateway handle bidirectional communication?
-Question 5Answer
 
-a.
-By transmitting and receiving data to and from end devices
-
-b.
-By changing its physical position
-
-c.
-By emitting different sounds for uplink and downlink
-
-d.
-By altering the colors of incoming and outgoing data# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
 ## Components required: Dragino LPS8 Indoor LoRaWAN gateway, ETHERNET cable RJ45,Internet connection 
